@@ -7,7 +7,7 @@
 </h1>
 
 <h4 align="center">
-    A imersão Dev foi uma semana de aulas gratuitas disponibilizadas pela Alura com as tecnologias HTML, CSS e JS. Esse repositótio contém os desafios propostos durante
+    A imersão Dev foi uma semana de aulas gratuitas disponibilizadas pela Alura com as tecnologias HTML, CSS e JS. Esse repositório contém os desafios propostos durante
     os 5 dias de imersão.
 </h4>
 <br>
