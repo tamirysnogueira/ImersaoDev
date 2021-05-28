@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    font-family: 'Open Sans', sans-serif;
+
+    background: #F5FAFF;
+}
+
+#container {
+    display: flex;
+    margin-top: 13vh;
+    padding: 20px;
+
+    height: 700px;
+}
+
+#img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background: linear-gradient(207.03deg, rgba(252, 210, 101, 0.69) 0%, rgba(242, 131, 131, 0.64) 100%);
+    mix-blend-mode: normal;
+    border-radius: 10px 0px 0px 10px;
+
+    width: 500px;
+
+}
+
+#container_sobre {
+    background-color: #fff;
+
+    box-shadow: inset 0 0 3px rgba(0, 0, 0, 0.2);
+    border-radius: 0px 10px 10px 0px;
+
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    
+    width: 600px;
+    
+}
+
+#sobre {
+    margin-top: 10%;
+    margin-bottom: 1.5rem;
+
+    line-height: 25px;
+}
+
+p {
+    margin-top: 42px;
+    width: 430px;
+}
+
+label {
+    color: black;
+}
+
+.label {
+    margin-top: 10%;
+}
+
+.formulario{
+    display: flex;
+    
+    flex-direction: column;
+}
+
+.formatacao{
+    border-radius: 5px;
+    padding: 8px;
+    margin-top: 10px;
+
+    box-shadow: inset 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+    border: none;
+    
+    width: 110%;
+
+    text-align: center;
+    font-size: 16px;
+
+}
+
+#botao {
+    margin-top: 20%;
+    padding: 10px;
+
+    background-color: #FFBC8B;
+
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+    font-size: 20px;
+
+    width: 110%;
+
+    transition: 0.2s ease-in-out;
+}
+
+#botao:hover {
+    transform: scale(1.1);
+}
+
+#resultado {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 50px;
+    width: 400px;
+
+    box-shadow: inset 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+
+    border: none;    
+    border-radius: 3px;
+    
+    margin-top: 10%;
+    margin-left: 3%;
+    
+}
+
+
+
+
+
+
+
+
+
+
+

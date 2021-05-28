@@ -12,6 +12,7 @@
 </h4>
 <br>
 <p align="center">
+    <img src="gif/gif_aula1.gif" width=600px alt="">
     <img src="gif/gif_aula2.gif" width=600px alt="">
     <img src="gif/gif_aula3.gif" width=600px alt="">
     <img src="gif/gif_aula4.gif" width=600px alt="">

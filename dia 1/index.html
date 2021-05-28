@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <script src="js/conversor.js"></script>
+    <link rel="stylesheet" href="style/style.css">
+    <title>Calculador</title>
+    
+</head>
+<body>
+    <div id="container">
+        <div id="img">
+            <img src="img/temperature.png" alt="">
+        </div>
+
+        <div id="container_sobre">
+            <div id="sobre">
+                <h1>Conversor de temperatura</h1>
+                <p>Escolha o tipo de escala, e insira a temperatura para converter em graus Calsius ou Fahrenheit.</p>
+            </div>
+        
+            <form name="formulario" class="formulario">
+                <label >Escolha uma escala: </label>
+
+                <select id="escala" class="formatacao">
+                    <option value="">Fahrenheit</option>
+                    <option value="">Celsius</option>
+                </select>
+
+                <label class="label">Informe a temperatura: </label>
+                <input type="number" id="temp" class="formatacao">
+
+                
+                <input type="button" value="Converter" id="botao" onclick="calcular()">
+            </form>
+                
+            <div>
+                <p id="resultado"></p>
+            </div>
+        </div>
+    </div>  
+  
+</body>
+</html>
