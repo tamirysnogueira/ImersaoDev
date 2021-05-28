@@ -20,7 +20,7 @@ body {
 }
 
 #logo {
-    width: 500px;
+    width: 400px;
 }
 
 h1 {
@@ -43,8 +43,14 @@ h1 {
     background: rgba(255, 255, 255, 0.9);
 }
 
+input:focus {
+    box-shadow: 0 0 0 0;
+
+    outline: 0;
+}
+
 #adivinhar img {
-    margin-top: 6%;
+    margin-top: 3%;
     margin-left: 10%;
 
     width: 500px;

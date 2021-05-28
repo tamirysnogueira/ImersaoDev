@@ -3,19 +3,15 @@
     <img src="img/imersaodev.jpg" width=300px alt="logo_imersao">
     <br>
     <br>
-    Repositótrios com os desafios da imersão Dev
+    Nome do Pokémon
 </h1>
 
 <h4 align="center">
-    A imersão Dev foi uma semana de aulas gratuitas disponibilizadas pela Alura com as tecnologias HTML, CSS e JS. Esse repositório contém os desafios propostos durante
-    os 5 dias de imersão.
+    A aplicação consiste em o usuário tentar acertar o nome do Pokémon na tela. 
 </h4>
 <br>
 <p align="center">
-    <img src="gif/gif_aula1.gif" width=600px alt="">
-    <img src="gif/Gif_aula2.gif" width=600px alt="">
-    <img src="gif/gif_aula3.gif" width=600px alt="">
-    <img src="gif/gif_aula4.gif" width=600px alt="">
+    <img src="img/Gif_aula2.gif" width=600px alt="">
 </p>
 
 <br>

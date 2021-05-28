@@ -1,7 +1,11 @@
- 
- var nome = prompt("Qual Pokémon é esse?")
- if (nome == "Eevee" || nome == "eevee"){
-        alert("Parabéns! Você acertou")
-} else {
-    alert("Ops! Tente novamente")
-}
+ function nome(elemento) {
+    var pokemon = elemento.value
+
+    if(pokemon.toUpperCase() == "EEVEE"){
+        alert("Acertou!")
+    } else {
+        alert("Que pena! Tente novamente")
+    }
+
+    elemento.value = ""
+ }
