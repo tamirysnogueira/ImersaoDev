@@ -3,15 +3,15 @@
     <img src="img/imersaodev.jpg" width=300px alt="logo_imersao">
     <br>
     <br>
-    Nome do Pokémon
+    Batalha entre personagens do Yu-Gi-Oh
 </h1>
 
 <h4 align="center">
-    A aplicação consiste em o usuário tentar acertar o nome do Pokémon na tela. 
+    Ao clicar no botão, irá acionar a função para tirar pontos de vida dos personagens, ao chegar a 0 o vencedor é decidido. 
 </h4>
 <br>
 <p align="center">
-    <img src="img/Gif_aula2.gif" width=600px alt="">
+    <img src="img/gif_aula3.gif" width=600px alt="">
 </p>
 
 <br>

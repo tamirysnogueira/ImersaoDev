@@ -1,5 +1,5 @@
  function nome(elemento) {
-    var pokemon = elemento.value
+    let pokemon = elemento.value
 
     if(pokemon.toUpperCase() == "EEVEE"){
         alert("Acertou!")
